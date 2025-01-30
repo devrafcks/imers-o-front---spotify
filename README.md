@@ -1,5 +1,8 @@
 # Spotify Imersão - Projeto de Busca de Artistas
 
+Acesse o projeto https://devrafcks.github.io/imers-o-front---spotify/
+![image](https://github.com/user-attachments/assets/fc958da3-4c6d-43e0-9680-5e87e903a8cb)
+
 Este projeto foi desenvolvido durante a **Imersão Front-End da Alura**, e visa simular a interface de busca de artistas do Spotify. O foco principal foi no layout da página, utilizando **CSS Grid** e **Flexbox** para a construção de uma interface responsiva e intuitiva.
 
 ## O Que Aprendi
